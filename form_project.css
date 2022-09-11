@@ -1,0 +1,25 @@
+form{
+    text-align: center;
+    background-color: lightseagreen;
+}
+input{
+    margin:1.01em;
+    font-size: 2em;
+    border-radius: 3em ;
+    box-shadow: 0.8em 1em 1em gold;
+
+}
+label{
+    font-size: 2em ;
+    text-transform: capitalize;
+}
+input:hover{
+    background-color: hotpink;
+    color: azure;
+}
+body{
+    margin: 0%;
+}
+.iui{
+    text-align: start;
+}
